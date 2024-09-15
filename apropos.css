@@ -13,7 +13,6 @@
     background-color: blanchedalmond;
     background-size: cover;
     text-transform: inherit;
-    background-image: url(plage 🦀.jpg.jpg)
 }
 
 .cadre {
@@ -28,7 +27,7 @@
 }
 
 .titre {
-    background-color: burlywood;
+    background-color: white;
 }
 
 .titre:hover {
